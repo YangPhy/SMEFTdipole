@@ -39,14 +39,18 @@ $$
 $$
 
 This directly connects the Wilson coefficients to the experimental observables:
-- **Anomalous Magnetic Dipole Moment** ($\Delta a_\ell \equiv (g-2)_\ell / 2$):
-  $$
-  \Delta a_\ell = \frac{4 \sqrt{2} \, m_\ell v}{e \, \Lambda^2} \text{Re}(C_{\ell\gamma})
-  $$
-- **Electric Dipole Moment** ($d_\ell$):
-  $$
-  d_\ell = \frac{\sqrt{2} \, e \, v}{\Lambda^2} \text{Im}(C_{\ell\gamma})
-  $$
+
+**Anomalous Magnetic Dipole Moment** ($\Delta a_\ell \equiv (g-2)_\ell / 2$):
+
+$$
+\Delta a_\ell = \frac{4 \sqrt{2} \, m_\ell v}{e \, \Lambda^2} \text{Re}(C_{\ell\gamma})
+$$
+
+**Electric Dipole Moment** ($d_\ell$):
+
+$$
+d_\ell = \frac{\sqrt{2} \, e \, v}{\Lambda^2} \text{Im}(C_{\ell\gamma})
+$$
 
 ---
 
